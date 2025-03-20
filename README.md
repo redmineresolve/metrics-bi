@@ -32,6 +32,15 @@ This tool is ideal for:
 - **Project managers** seeking data-driven insights for better decision-making.
 - **BI analysts** who need structured metadata views for reporting.
 
+## 📸 Dashboard Preview
+
+![Metadata 1](metadata1.png)
+![Metadata 2](metadata2.png)
+![Metadata 3](metadata3.png)
+![Metadata 4](metadata4.png)
+![Metadata 5](metadata5.png)
+![Metadata 6](metadata6.png)
+
 ## 💰 Pricing & Access
 To use this dashboard, please contact **contato@redmineresolve.com.br** to request a quote.
 
